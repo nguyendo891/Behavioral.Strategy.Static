@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Strategy.Static", "Behavioral.Strategy.Static\Behavioral.Strategy.Static.csproj", "{286930F3-D38A-49CE-9B60-0987B33C8556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286930F3-D38A-49CE-9B60-0987B33C8556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286930F3-D38A-49CE-9B60-0987B33C8556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286930F3-D38A-49CE-9B60-0987B33C8556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286930F3-D38A-49CE-9B60-0987B33C8556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77113AE6-5EA1-49A8-9D7C-D799595E050C}
+	EndGlobalSection
+EndGlobal
